@@ -3,7 +3,7 @@ Our code and Doc. are based on Space-Time Interaction Graph Parsing Networks for
 ### Installation
 1. Clone this repository.   
     ```
-    git clone https://github.com/GuangmingZhu/STIGPN](https://github.com/J-Fe/HOI-Detection.git
+    git clone https://github.com/J-Fe/HOI-Detection.git
     ```
   
 2. Install Python dependencies:   
