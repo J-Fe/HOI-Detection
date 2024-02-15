@@ -1,5 +1,5 @@
 # HOI-Detection
-Our code and Doc. is based on Space-Time Interaction Graph Parsing Networks for Human-Object Interaction Recognition，ACM MM'21
+Our code and Doc. are based on Space-Time Interaction Graph Parsing Networks for Human-Object Interaction Recognition，ACM MM'21
 ### Installation
 1. Clone this repository.   
     ```
